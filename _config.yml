@@ -1,0 +1,26 @@
+title: High Performance Computing & Databases
+description: Research Group
+author: HPCDB
+logo: /static/img/avatar.png
+github: https://github.com/hpcdb/
+about: COPPE/UFRJ - UFF - Inria
+
+baseurl: ""
+url: "https://hpcdb.github.io/"
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
