@@ -26,7 +26,7 @@ permalink: /team/
 
 ## Fluminense Federal University (UFF)
 
-### Daniel Cardoso Moraes de Oliveira
+### Daniel de Oliveira
 
 * E-mail: danielcmo [at] ic.uff.br
 * Web page: [http://www2.ic.uff.br/~danielcmo/](http://www2.ic.uff.br/~danielcmo/)
