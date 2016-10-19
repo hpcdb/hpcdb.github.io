@@ -18,8 +18,7 @@
   {
     "text": "Links",
     "url": "/links",
-    "icon": "fa-feed",
-    "target": _blank
+    "icon": "fa-feed"
   }
 ]
 
