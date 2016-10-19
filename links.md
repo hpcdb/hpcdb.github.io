@@ -15,7 +15,7 @@ permalink: /links/
 
 * #### [Our GitHub repository](http://github.com/hpcdb){:target="_blank"}
 * #### [d-Chiron](http://github.com/hpcdb/d-Chiron){:target="_blank"}
-* #### [Armful](https://hpcdb.github.io/armfu){:target="_blank"}
+* #### [Armful](https://hpcdb.github.io/armful){:target="_blank"}
 
 ## Research profiles
 
