@@ -6,8 +6,8 @@
     "layout": "post"
   },
   {
-    "text": "About",
-    "url": "/about",
+    "text": "Team",
+    "url": "/team",
     "icon": "fa-comments"
   },
   {
@@ -16,21 +16,18 @@
     "icon": "fa-graduation-cap"
   },
   {
+    "text": "Links",
+    "url": "/links",
+    "icon": "fa-feed",
+    "target": _blank
+  }
+]
+
+/*
+{
     "text": "Projects",
     "url": "/projects",
     "icon": "fa-desktop",
     "layout": "post"
   },
-  {
-    "text": "Github",
-    "url": "http://github.com/hpcdb",
-    "icon": "fa-github",
-    "target": _blank
-  },
-  {
-    "text": "Links",
-    "url": "#",
-    "icon": "fa-feed",
-    "target": _blank
-  }
-]
+  */
