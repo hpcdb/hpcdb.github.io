@@ -80,7 +80,7 @@ Web page: [http://www-sop.inria.fr/members/Patrick.Valduriez/](http://www-sop.in
 
 ### Pedro Paiva Miranda
 
-* E-mail: 
+* E-mail: pmiranda [at] cos.ufrj.br
 
 ### Rodrigo Schmidt Nürmberg
 
