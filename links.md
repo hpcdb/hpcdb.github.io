@@ -6,20 +6,16 @@ permalink: /links/
 
 ## Affiliations
 
-* ### [UFRJ](http://www.ufrj.br){:target="_blank"}
-  * #### [COPPE](http://www.coppe.ufrj.br){:target="_blank"}
-  * #### [PESC](http://www.cos.ufrj.br){:target="_blank"}
-  * #### [NACAD](http://www.nacad.ufrj.br){:target="_blank"}
-
-### Projects
-
-* #### [Our GitHub repository](http://github.com/hpcdb){:target="_blank"}
-* #### [d-Chiron](http://github.com/hpcdb/d-Chiron){:target="_blank"}
-* #### [Armful](https://hpcdb.github.io/armful){:target="_blank"}
+* ### [Federal University of Rio de Janeiro (UFRJ)](http://www.ufrj.br){:target="_blank"}
+  * #### [Graduate School of Engineering Sciences (COPPE)](http://www.coppe.ufrj.br){:target="_blank"}
+  * #### [Computer Science at COPPE](http://www.cos.ufrj.br){:target="_blank"}
+  * #### [Advanced Center of High Performance Computing (NACAD)](http://www.nacad.ufrj.br){:target="_blank"}
+* ### [Fluminense Federal University (UFF)](http://www.uff.br){:target="_blank"}
+  * #### [Computing Institute](http://www.ic.uff.br/index.php/pt/)
 
 ## Research profiles
 
-* #### [CNPq Lattes](#){:target="_blank"}
-* #### [Google Scholar](#){:target="_blank"}
-* #### [DBLP](#){:target="_blank"}
-* #### [Research Gate](#){:target="_blank"}
+* #### [CNPq Lattes](http://lattes.cnpq.br/1420784392366957){:target="_blank"}
+* #### [Google Scholar](https://scholar.google.com/citations?user=ZPczFBAAAAAJ&hl=en){:target="_blank"}
+* #### [DBLP](http://dblp.uni-trier.de/pers/hd/m/Mattoso:Marta.html){:target="_blank"}
+* #### [Research Gate](https://www.researchgate.net/profile/Marta_Mattoso){:target="_blank"}
