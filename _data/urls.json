@@ -16,17 +16,15 @@
     "icon": "fa-graduation-cap"
   },
   {
+    "text": "Projects",
+    "url": "/projects",
+    "icon": "fa-desktop",
+    "layout": "post"
+  },
+  {
     "text": "Links",
     "url": "/links",
     "icon": "fa-feed"
   }
 ]
 
-/*
-{
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop",
-    "layout": "post"
-  },
-  */
