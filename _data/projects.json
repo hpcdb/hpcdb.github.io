@@ -1,31 +1,33 @@
 [
 	{
-		"name": "Cool project 1",
-		"description": "test",
+		"name": "Open Source",
+		"description": "Our GitHub repository",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"url": "http://github.com/hpcdb"
 	},
 	{
-		"name": "Cool project 2",
+		"name": "Chiron",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"url": "http://chironengine.sourceforge.net/",
+		"description": "a parallel scientific workflow management system with solid provenance data management available for runtime queries"
 	},
 	{
-		"name": "Cool project 3",
+		"name": "d-Chiron",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"url": "http://github.com/hpcdb/d-Chiron",
+		"description": "A version of Chiron that provides parallel and distributed provenance data management"
 	},
 	{
-		"name": "Cool project 4",
+		"name": "SciCumulus",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"url": "https://scicumulusc2.wordpress.com/"
+		"description": "a parallel scientific workflow management system with solid provenance data management available for cluster and cloud environments"
+	},
+	{
+		"name": "ARMFUL",
+		"image": "placeholder.jpg",
+		"url": "https://hpcdb.github.io/armful"
+		"description": "a component-based architecture for analyzing raw data from multiple files"
 	}
 
 ]
