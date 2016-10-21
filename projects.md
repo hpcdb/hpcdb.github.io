@@ -15,7 +15,7 @@ permalink: /projects/
     A version of Chiron that provides parallel and distributed provenance data management
 
 ### [SciCumulus](https://scicumulusc2.wordpress.com/){:target="_blank"}
-    A parallel scientific workflow management system with solid provenance data management available for cluster and cloud environments
+    A parallel scientific workflow management system for cluster and cloud environments
 
 ### [ARMFUL](https://hpcdb.github.io/armful){:target="_blank"}
     A component-based architecture for analyzing raw data from multiple files
