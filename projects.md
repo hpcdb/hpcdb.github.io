@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Our projects
 
-### [Our GitHub repository](http://github.com/hpcdb){:target="_blank"}
+### [GitHub repository](http://github.com/hpcdb){:target="_blank"}
 
 ### [Chiron](http://chironengine.sourceforge.net/){:target="_blank"}
     A parallel scientific workflow management system with solid provenance data management available for runtime queries
