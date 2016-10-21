@@ -8,7 +8,7 @@ permalink: /links/
 
 * ### [Federal University of Rio de Janeiro (UFRJ)](http://www.ufrj.br){:target="_blank"}
   * #### [Graduate School of Engineering Sciences (COPPE)](http://www.coppe.ufrj.br){:target="_blank"}
-  * #### [Computer Science at COPPE](http://www.cos.ufrj.br){:target="_blank"}
+  * #### [Computer Science at COPPE (PESC)](http://www.cos.ufrj.br){:target="_blank"}
   * #### [Advanced Center of High Performance Computing (NACAD)](http://www.nacad.ufrj.br){:target="_blank"}
 * ### [Fluminense Federal University (UFF)](http://www.uff.br){:target="_blank"}
   * #### [Computing Institute](http://www.ic.uff.br/index.php/pt/)
