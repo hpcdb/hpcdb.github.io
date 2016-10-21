@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Cool project 1",
+		"description": "test",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "Jan 2014",
