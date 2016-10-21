@@ -19,6 +19,12 @@ layout: default
     			<h3 class="project-headlines">{{ i.name }}</h3>
     			{% if i.url %} </a> {% endif %}
     			<div class="project-content">
+            <div class="tag-holder">
+    				{% if i.description %} 
+    					<span style="14px">{{ i.description }}</span>
+    				{% endif %}
+    				</div>
+            <!--
     				<div class="tag-holder">
     				{% if i.tags %} 
     					{% for j in i.tags %}
@@ -26,7 +32,7 @@ layout: default
     					{% endfor %}
     				{% endif %}
     				</div>
-    				
+    				-->
     			</div>
     			<div class="project-footer"> 
     				{% if i.url %} 
