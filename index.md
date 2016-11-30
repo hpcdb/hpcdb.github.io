@@ -17,6 +17,7 @@ In this webpage, you find our publications, recent projects, and research intere
 * Data Flow Management in High Performance Computing
 * Cloud Computing Scientific Workflow Management
 * Provenance Management in Distributed Worfkow Execution
-* Human in Loop : Dynamic Workflow Steering
+* Human in the Loop : Online Workflow Steering
 * Large Scale Experiments Supported by Databases
+* Dynamic Tuning of Worflow Parallel Execution
 
