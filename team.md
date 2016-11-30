@@ -60,7 +60,9 @@ Web page: [http://www-sop.inria.fr/members/Patrick.Valduriez/](http://www-sop.in
 
 ### Esther Pacitti
 
-# PhD candidates
+
+## Students at COPPE / UFRJ
+### PhD candidates
 
 ### Renan Francisco Santos Souza
 
@@ -71,7 +73,7 @@ Web page: [http://www-sop.inria.fr/members/Patrick.Valduriez/](http://www-sop.in
 
 * E-mail: silva [at] cos.ufrj.br
 
-# MSc candidates
+### MSc candidates
 
 ### José Vitor Delgado Leite
 
@@ -89,7 +91,7 @@ Web page: [http://www-sop.inria.fr/members/Patrick.Valduriez/](http://www-sop.in
 
 * E-mail: 
 
-# Undergraduate students
+### Undergraduate students
 
 ### Vinícius Campos
 
