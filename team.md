@@ -47,7 +47,7 @@ permalink: /team/
 
 ## Laboratório Nacional de Computação Científica (LNCC)
 
-### Kary Ann del Carmen Soriano Ocaña, PhD.
+### Kary Ann del Carmen Soriano Ocaña
 
 * E-mail: kary [at] cos.ufrj.br
 * CV lattes: [http://lattes.cnpq.br/1435339422167961](http://lattes.cnpq.br/1435339422167961)
