@@ -4,7 +4,7 @@ title: Team Members
 permalink: /team/
 ---
 
-## Federal University of Rio de Janeiro (UFRJ)
+## COPPE - Federal University of Rio de Janeiro (UFRJ)
 
 ### Marta Mattoso (Leader)
 
@@ -18,9 +18,9 @@ permalink: /team/
 * CV lattes: [http://lattes.cnpq.br/6383271274098914](http://lattes.cnpq.br/6383271274098914)
 * Web page: [http://cos.ufrj.br/~assis](http://cos.ufrj.br/~assis)
 
-### Álvaro L. G. A. Coutinho
+### Alvaro L. G. A. Coutinho
 
-* E-mail: assis [at] cos.ufrj.br
+* E-mail: alvaro [at] nacad.ufrj.br
 * CV lattes: [http://lattes.cnpq.br/640236174462428](http://lattes.cnpq.br/640236174462428)
 * Web page: [http://www.coc.ufrj.br/~alvaro](http://www.coc.ufrj.br/~alvaro)
 
@@ -36,11 +36,10 @@ permalink: /team/
 
 * E-mail: leomurta [at] ic.uff.br
 * Web page: [http://www2.ic.uff.br/~leomurta/](http://www2.ic.uff.br/~leomurta/)
-
+* CV lattes: [http://lattes.cnpq.br/1565296529736448](http://lattes.cnpq.br/1565296529736448)
 
 ### Vanessa Braganholo Murta
 
-* CV lattes: [http://lattes.cnpq.br/1565296529736448](http://lattes.cnpq.br/1565296529736448)
 * E-mail: vanessa [at] ic.uff.br
 * Web page: [http://www2.ic.uff.br/~vanessa/](http://www2.ic.uff.br/~vanessa/)
 * CV lattes: [http://lattes.cnpq.br/0060120644445370](http://lattes.cnpq.br/0060120644445370)
