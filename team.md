@@ -59,7 +59,7 @@ permalink: /team/
 Web page: [http://www-sop.inria.fr/members/Patrick.Valduriez/](http://www-sop.inria.fr/members/Patrick.Valduriez/)
 
 ### Esther Pacitti
-
+Web page: [http://www.lirmm.fr/users/utilisateurs-lirmm/esther-pacitti/personal-page](http://www.lirmm.fr/users/utilisateurs-lirmm/esther-pacitti/personal-page)
 
 ## Students at COPPE / UFRJ
 ### PhD candidates
